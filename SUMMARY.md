@@ -2,8 +2,8 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [Entry point](README.md)
 
-## Methods
+## I'm too lazy to think of a new name
 
-* [Defining Methods](methods.md)
+* [Lang hack test stuff](lang.md)
